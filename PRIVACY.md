@@ -15,7 +15,7 @@ Depending on the features the user enables, Capture may process and store:
 
 - screenshots and screen or game recordings;
 - game or application names and process information used to select a capture target;
-- game/system audio and microphone audio included in recordings;
+- game/system audio, optional Discord process audio (including call participant voices and other Discord sounds), and microphone audio included in recordings;
 - locally recognized text from screenshots for library search;
 - capture metadata, thumbnails, edit/export settings, and public share URLs;
 - application preferences, including capture locations, hotkeys, audio-device selections, and sharing configuration;
